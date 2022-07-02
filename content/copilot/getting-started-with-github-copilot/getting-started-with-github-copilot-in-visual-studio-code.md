@@ -103,7 +103,7 @@ You can also use {% data variables.product.prodname_copilot %} to generate sugge
    ```javascript{:copy}
    // Return the current time
    ```
-1. To accept each line, press <kbd>Tab</kbd>.
+1. To accept each linde, press <kbd>Tab</kbd>.
 
 {% data reusables.copilot.enabling-or-disabling-in-vsc %}
 
